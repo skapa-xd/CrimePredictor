@@ -1,4 +1,4 @@
-﻿absl-py==0.13.0
+absl-py==0.13.0
 aiohttp==3.7.4.post0
 astroid==2.8.0
 asttokens==2.0.5
@@ -51,6 +51,7 @@ MarkupSafe==2.0.1
 matplotlib==3.5.2
 matplotlib-inline==0.1.3
 mccabe==0.6.1
+mediapipe==0.8.7.2
 multidict==5.1.0
 nest-asyncio==1.5.5
 numpy==1.21.2
